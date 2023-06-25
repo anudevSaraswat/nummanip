@@ -1,3 +1,3 @@
-module github.com/anudevSaraswat/nummanip@v1.0.2
+module github.com/anudevSaraswat/nummanip
 
 go 1.20
