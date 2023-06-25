@@ -6,7 +6,7 @@ import (
 )
 
 func Add(args ...int) error {
-	if len(args) < 0 {
+	if len(args) < 2 {
 		return errors.New("minimum two arguments are required")
 	} else {
 		sum := 0
